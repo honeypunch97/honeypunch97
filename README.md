@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20honeypunch97%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=200)
+![header](https://capsule-render.vercel.app/api?type=slice)
 <p align="center">
    <img src="https://img.shields.io/badge/HTML5-534f26?style=flat-square&logo=HTML5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
