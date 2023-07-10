@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20ChuGyeong%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20honeypunch97%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=200)
 <p align="center">
    <img src="https://img.shields.io/badge/HTML5-534f26?style=flat-square&logo=HTML5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
@@ -16,11 +16,11 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChuGyeong&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=honeypunch97&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=ChuGyeong&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuGyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.comChuGyeong)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=honeypunch97&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=honeypunch97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.comChuGyeong)
 
 </div>
