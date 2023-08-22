@@ -2,7 +2,13 @@
    
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20honeypunch97%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=200)
 
-   
+<p>요즘 관심있는 것</p>
+<p align="center">
+   <img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white""/>
+  <br> 
+</p>
+
+<p>배웠던 것</p>
 <p align="center">
    <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=while"/>
    <img src="https://img.shields.io/badge/HTML5-534f26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -12,11 +18,7 @@
    <img src="https://img.shields.io/badge/Scss-cc6699?style=flat&logo=Sass&logoColor=white"/>
    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
    <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white""/>
-   <img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white""/>
   <br> 
-<!--   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp -->
 </p>
 
 <br>
