@@ -10,15 +10,15 @@
 
 <p>배웠던 것</p>
 <p align="center">
-   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=while"/>
-   <img src="https://img.shields.io/badge/HTML5-534f26?style=flat-square&logo=HTML5&logoColor=white"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=while"/>
+   <img src="https://img.shields.io/badge/HTML5-534f26?style=flat&logo=HTML5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>
    <img src="https://img.shields.io/badge/Scss-cc6699?style=flat&logo=Sass&logoColor=white"/>
    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
    <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white""/>
-   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <br> 
 </p>
 
