@@ -4,7 +4,7 @@
 
 <p>요즘 관심있는 것</p>
 <p align="center">
-   <img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white""/>
+     <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <br> 
 </p>
 
@@ -18,7 +18,7 @@
    <img src="https://img.shields.io/badge/Scss-cc6699?style=flat&logo=Sass&logoColor=white"/>
    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
    <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white""/>
-   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white""/>
   <br> 
 </p>
 
