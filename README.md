@@ -18,7 +18,7 @@
    <img src="https://img.shields.io/badge/Scss-cc6699?style=flat&logo=Sass&logoColor=white"/>
    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
    <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white""/>
-   <img src="https://img.shields.io/badge/#764ABC?style=flat&logo=redux&logoColor=white">
+   <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white""/>
   <br> 
 </p>
