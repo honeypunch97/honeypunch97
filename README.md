@@ -34,7 +34,7 @@
 
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=honeypunch97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.comChuGyeong)
 
-## [포트폴리오 바로가기]([https://honeypunch97.github.io/portfolio/dist/](https://honeypunch97.github.io/portfolio/dist/))
+## [포트폴리오 바로가기](https://honeypunch97.github.io/portfolio/dist/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=200&section=footer)
 </div>
