@@ -34,20 +34,7 @@
 
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=honeypunch97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.comChuGyeong)
 
-## 프로젝트 간단 링크
-
-### 팀 프로젝트
-
-[Gamily](https://github.com/ChuGyeong/Gamily)
-
-[Tamraev](https://github.com/ChuGyeong/Tamraev)
-
-[Ewha](https://github.com/ChuGyeong/Ewha)
-
-### 토이 프로젝트
-
-[토이 프로젝트들](https://github.com/honeypunch97/Toy-Project#readme)
-
+## [포트폴리오 바로가기]([https://github.com/ChuGyeong/Gamily](https://honeypunch97.github.io/portfolio/dist/))
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=200&section=footer)
 </div>
